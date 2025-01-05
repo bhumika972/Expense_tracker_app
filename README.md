@@ -15,4 +15,7 @@ expenses. The app also utilizes Provider for state management and local storage 
   ##ScreenShots
   ![Capture](https://github.com/user-attachments/assets/30db05d9-f96b-42a3-8eea-49dc44678acf)
   ![capture1](https://github.com/user-attachments/assets/e85f4ce4-cdc6-4e54-80fb-ec4e8666da40)
-  ![image](https://github.com/user-attachments/assets/2af80db2-c187-4e7b-a0f1-6092e6fff4c9)
+  ![Capture2](https://github.com/user-attachments/assets/50a84062-66bc-44fd-ad4f-b25c7af855ef)
+  ![image](https://github.com/user-attachments/assets/bb07df12-ab18-41fb-8547-edfc31c88663)
+  
+
